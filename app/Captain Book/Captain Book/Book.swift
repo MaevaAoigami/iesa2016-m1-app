@@ -9,7 +9,11 @@
 import Foundation
 
 class Book {
+    
     var title: String = "Title"
+    
     var author: String = "Author"
+    
     var description: String = "Description"
+    
 }
